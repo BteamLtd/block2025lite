@@ -6,9 +6,7 @@
         "builder": "*"
     },
     "files": [
-        "f5r1.md",
-        "blocklite.ts",
-        "tsconfig.json"
+        "f5r1.md"
     ],
     "targetVersions": {
         "target": "2.0.35",
