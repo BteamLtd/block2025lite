@@ -6,7 +6,8 @@
         "builder": "*"
     },
     "files": [
-        "f5r1_mod.md"
+        "f5r1_mod.md",
+        "test.md"
     ],
     "targetVersions": {
         "target": "2.0.35",
