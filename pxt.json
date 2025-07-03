@@ -13,5 +13,9 @@
         "target": "2.0.35",
         "targetId": "minecraft"
     },
+    "testFiles": [],
+    "supportedTargets": [
+        "minecraft"
+    ],
     "preferredEditor": "tsprj"
 }
