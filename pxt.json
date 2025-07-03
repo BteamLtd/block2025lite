@@ -1,0 +1,20 @@
+{
+    "name": "block2025lite",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "f5r1.md",
+        "blocklite.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.35",
+        "tag": "v2.0.35",
+        "commits": "https://github.com/microsoft/pxt-minecraft/commits/03116eb5a6f822adaab9f5a977b75a9c828b3451",
+        "target": "2.0.35",
+        "pxt": "11.2.37"
+    },
+    "preferredEditor": "tsprj"
+}
