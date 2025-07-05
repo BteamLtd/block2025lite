@@ -1,5 +1,5 @@
-### @codeStart players set status bteamltdmakecode 0
-### @codeStop players set status bteamltdmakecode 1
+### @codeStart players set status_add bteamltdmakecode 0
+### @codeStop players set status_add bteamltdmakecode 1
 
 ### @flyoutOnly true
 ### @hideIteration true
@@ -16,8 +16,7 @@
     let 加数2 = 200
     let 结果 = 0
     
-    bteam.changeVariableBy(结果, 加数1)
-    bteam.changeVariableBy(结果, 加数2)
+    结果 = bteam_math.add(加数1,加数2)
 
     player.say(结果)
     基岩科技第五层第三房间.subAnsOnF5R3_add(结果)
@@ -28,13 +27,12 @@
     let 加数2 = 200
     let 结果 = 0
     
-    bteam.changeVariableBy(结果, 加数1)
-    bteam.changeVariableBy(结果, 加数2)
+    结果 = bteam_math.add(加数1,加数2)
 
     player.say(结果)
     基岩科技第五层第三房间.subAnsOnF5R3_add(结果)
 ```
 
 ```package
-blocklite=github:BteamLtd/block2025lite-ts#f5r3_1
+blocklite=github:BteamLtd/block2025lite-ts#f5r3_2
 ```
