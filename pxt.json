@@ -9,6 +9,9 @@
         "f5r1.md",
         "f5r2.md",
         "f5r3_add.md",
+        "f5r3_sub.md",
+        "f5r3_mul.md",
+        "f5r3_div.md",
         "test.md"
     ],
     "targetVersions": {
