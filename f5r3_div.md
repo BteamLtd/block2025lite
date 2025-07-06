@@ -1,7 +1,6 @@
 ### @codeStart players set status_div bteamltdmakecode 0
 ### @codeStop players set status_div bteamltdmakecode 1
 
-### @flyoutOnly true
 ### @hideIteration true
 ### @explicitHints true
 
