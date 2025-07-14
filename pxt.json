@@ -6,7 +6,6 @@
         "builder": "*"
     },
     "files": [
-        "f5r1_fix4.md",
         "f5r1.md",
         "f5r2.md",
         "f5r3_add.md",
