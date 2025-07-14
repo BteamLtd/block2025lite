@@ -35,5 +35,5 @@
 ```
 
 ```package
-blocklite=github:BteamLtd/block2025lite-ts#f5r1fix
+blocklite=github:BteamLtd/block2025lite-ts#f5r1fix2
 ```
