@@ -14,7 +14,7 @@
 
     for (let index = 0; index < 5; index++) {
         基岩科技第五层第一房间.newIf(基岩科技第五层第一房间.isAirDOWN(), function () {
-            基岩科技第五层第一房间.changeVariableBy(空缺方块的计数, 1)
+            bteam.changeVariableBy(空缺方块的计数, 1)
         })
         agent.move(FORWARD, 1)
     }
