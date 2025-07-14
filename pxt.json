@@ -36,7 +36,8 @@
         "f9r2.md",
         "f9r3.md",
         "f9r4.md",
-        "test.md"
+        "test.md",
+        "test2.md"
     ],
     "targetVersions": {
         "target": "2.0.35",
