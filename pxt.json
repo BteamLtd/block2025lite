@@ -6,6 +6,11 @@
         "builder": "*"
     },
     "files": [
+        "f1r1.md",
+        "f1r2.md",
+        "f1r3.md",
+        "f1r4.md",
+        "f1r5.md",
         "f5r1.md",
         "f5r2.md",
         "f5r3_add.md",
@@ -38,7 +43,7 @@
         "f9r5.md",
         "f9r6.md",
         "test.md",
-        "test3.md"
+        "test4.md"
     ],
     "targetVersions": {
         "target": "2.0.35",
