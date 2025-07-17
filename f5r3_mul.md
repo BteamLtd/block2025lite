@@ -15,7 +15,7 @@
     let 因数2 = 200
     let 积 = 0
     
-    积 = bteam_math.mul(因数1,因数2)
+    积 = 因数1 * 因数2
 
     player.say(积)
     基岩科技第五层第三房间.subAnsOnF5R3_add(积)
@@ -25,7 +25,7 @@
     let 因数2 = 200
     let 积 = 0
     
-    积 = bteam_math.mul(因数1,因数2)
+    积 = 因数1 * 因数2
 
     player.say(积)
     基岩科技第五层第三房间.subAnsOnF5R3_add(积)

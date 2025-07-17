@@ -16,7 +16,7 @@
     let 差 = 0
     
     
-    差 = bteam_math.sub(加数1,加数2)
+    差 = 被减数 - 减数
 
     player.say(差)
     基岩科技第五层第三房间.subAnsOnF5R3_add(差)
@@ -27,7 +27,7 @@
     let 差 = 0
     
     
-    差 = bteam_math.sub(加数1,加数2)
+    差 = 被减数 - 减数
 
     player.say(差)
     基岩科技第五层第三房间.subAnsOnF5R3_add(差)

@@ -15,7 +15,7 @@
     let 加数2 = 200
     let 结果 = 0
     
-    结果 = bteam_math.add(加数1,加数2)
+    结果 = 加数1 + 加数2
 
     player.say(结果)
     基岩科技第五层第三房间.subAnsOnF5R3_add(结果)
@@ -26,7 +26,7 @@
     let 加数2 = 200
     let 结果 = 0
     
-    结果 = bteam_math.add(加数1,加数2)
+    结果 = 加数1 + 加数2
 
     player.say(结果)
     基岩科技第五层第三房间.subAnsOnF5R3_add(结果)

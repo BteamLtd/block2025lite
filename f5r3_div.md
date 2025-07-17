@@ -15,8 +15,7 @@
     let 除数 = 200
     let 商 = 0
     
-    商 = bteam_math.div(被除数,除数)
-    
+    商 = 被除数 / 除数
 
     player.say(商)
     基岩科技第五层第三房间.subAnsOnF5R3_add(商)
@@ -26,8 +25,7 @@
     let 除数 = 200
     let 商 = 0
     
-    商 = bteam_math.div(被除数,除数)
-    
+    商 = 被除数 / 除数
 
     player.say(商)
     基岩科技第五层第三房间.subAnsOnF5R3_add(商)
