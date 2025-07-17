@@ -8,7 +8,7 @@
 
 ## ![](https://blocklite.20240806.xyz/temp/tw/1/f1r1) Step 1 
 
-![](https://blocklite.20240806.xyz/temp/tw/1/f1r2)请使用小机器人检查方块并且增加变量的数字，然后提交对应的变量到答案记录板。![](https://blocklite.20240806.xyz/temp/tw/1/f1r3)
+![](https://blocklite.20240806.xyz/temp/tw/1/f1r2)请使用小机器人检查方块并且增加变量的数字，然后提交对应的变量到答案记录板。<img src="https://blocklite.20240806.xyz/temp/tw/1/f1r1" width="48" height="48">
 
 
 ```ghost
