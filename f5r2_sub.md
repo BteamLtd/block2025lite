@@ -4,10 +4,10 @@
 ### @hideIteration true
 ### @explicitHints true
 
-# F5R3
+# F5R2
 
 ## Step 2
-房间3: 加减乘除
+房间2: 加减乘除
 你需要使用变量，变量赋值，变量运算。然后分别提交计算的``结果``。
 
 ```ghost
@@ -19,7 +19,7 @@
     差 = 被减数 - 减数
 
     player.say(差)
-    基岩科技第五层第三房间.subAnsOnF5R3_add(差)
+    基岩科技第五层第三房间.subAnsOnF5R2_sub(差)
 ```
 ```template
     let 被减数 = 648
@@ -30,9 +30,9 @@
     差 = 被减数 - 减数
 
     player.say(差)
-    基岩科技第五层第三房间.subAnsOnF5R3_add(差)
+    基岩科技第五层第三房间.subAnsOnF5R2_sub(差)
 ```
 
 ```package
-blocklite=github:BteamLtd/block2025lite-ts#f5r3_2
+blocklite=github:BteamLtd/block2025lite-ts#master
 ```
