@@ -18,7 +18,7 @@
     积 = 因数1 * 因数2
 
     player.say(积)
-    基岩科技第五层第三房间.subAnsOnF5R2_mul(积)
+    基岩科技第五层第二房间.subAnsOnF5R2_mul(积)
 ```
 ```template
     let 因数1 = 648
@@ -28,7 +28,7 @@
     积 = 因数1 * 因数2
 
     player.say(积)
-    基岩科技第五层第三房间.subAnsOnF5R2_mul(积)
+    基岩科技第五层第二房间.subAnsOnF5R2_mul(积)
 ```
 
 ```package

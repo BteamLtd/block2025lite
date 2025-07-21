@@ -19,7 +19,7 @@
     差 = 被减数 - 减数
 
     player.say(差)
-    基岩科技第五层第三房间.subAnsOnF5R2_sub(差)
+    基岩科技第五层第二房间.subAnsOnF5R2_sub(差)
 ```
 ```template
     let 被减数 = 648
@@ -30,7 +30,7 @@
     差 = 被减数 - 减数
 
     player.say(差)
-    基岩科技第五层第三房间.subAnsOnF5R2_sub(差)
+    基岩科技第五层第二房间.subAnsOnF5R2_sub(差)
 ```
 
 ```package

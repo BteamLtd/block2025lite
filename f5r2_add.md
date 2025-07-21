@@ -18,7 +18,7 @@
     结果 = 加数1 + 加数2
 
     player.say(结果)
-    基岩科技第五层第三房间.subAnsOnF5R2_add(结果)
+    基岩科技第五层第二房间.subAnsOnF5R2_add(结果)
 ```
 ```template
 
@@ -29,7 +29,7 @@
     结果 = 加数1 + 加数2
 
     player.say(结果)
-    基岩科技第五层第三房间.subAnsOnF5R2_add(结果)
+    基岩科技第五层第二房间.subAnsOnF5R2_add(结果)
 ```
 
 ```package

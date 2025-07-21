@@ -18,7 +18,7 @@
     商 = 被除数 / 除数
 
     player.say(商)
-    基岩科技第五层第三房间.subAnsOnF5R2_div(商)
+    基岩科技第五层第二房间.subAnsOnF5R2_div(商)
 ```
 ```template
     let 被除数 = 648
@@ -28,7 +28,7 @@
     商 = 被除数 / 除数
 
     player.say(商)
-    基岩科技第五层第三房间.subAnsOnF5R2_div(商)
+    基岩科技第五层第二房间.subAnsOnF5R2_div(商)
 ```
 
 ```package
