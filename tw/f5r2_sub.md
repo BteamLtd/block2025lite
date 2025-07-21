@@ -11,26 +11,26 @@
 你需要使用變量，變量賦值，變量運算。然後分別提交計算的``結果``。
 
 ```ghost
-    let 被减数 = 648
-    let 减数 = 200
+    let 被減數 = 648
+    let 減數 = 200
     let 差 = 0
     
     
-    差 = 被减数 - 减数
+    差 = 被減數 - 減數
 
     player.say(差)
-    基岩科技第五层第二房间.subAnsOnF5R2_sub(差)
+    基岩科技第五層第二房間.subAnsOnF5R2_sub(差)
 ```
 ```template
-    let 被减数 = 648
-    let 减数 = 200
+    let 被減數 = 648
+    let 減數 = 200
     let 差 = 0
     
     
-    差 = 被减数 - 减数
+    差 = 被減數 - 減數
 
     player.say(差)
-    基岩科技第五层第二房间.subAnsOnF5R2_sub(差)
+    基岩科技第五層第二房間.subAnsOnF5R2_sub(差)
 ```
 
 ```package

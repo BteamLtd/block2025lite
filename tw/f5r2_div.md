@@ -11,24 +11,24 @@
 你需要使用變量，變量賦值，變量運算。然後分別提交計算的``結果``。
 
 ```ghost
-    let 被除数 = 648
-    let 除数 = 200
+    let 被除數 = 648
+    let 除數 = 200
     let 商 = 0
     
-    商 = 被除数 / 除数
+    商 = 被除數 / 除數
 
     player.say(商)
-    基岩科技第五层第二房间.subAnsOnF5R2_div(商)
+    基岩科技第五層第二房間.subAnsOnF5R2_div(商)
 ```
 ```template
-    let 被除数 = 648
-    let 除数 = 200
+    let 被除數 = 648
+    let 除數 = 200
     let 商 = 0
     
-    商 = 被除数 / 除数
+    商 = 被除數 / 除數
 
     player.say(商)
-    基岩科技第五层第二房间.subAnsOnF5R2_div(商)
+    基岩科技第五層第二房間.subAnsOnF5R2_div(商)
 ```
 
 ```package

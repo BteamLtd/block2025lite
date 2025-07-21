@@ -11,25 +11,25 @@
 你需要使用變量，變量賦值，變量運算。然後分別提交計算的``結果``。
 
 ```ghost
-    let 加数1 = 648
-    let 加数2 = 200
-    let 结果 = 0
+    let 加數1 = 648
+    let 加數2 = 200
+    let 結果 = 0
     
-    结果 = 加数1 + 加数2
+    結果 = 加數1 + 加數2
 
-    player.say(结果)
-    基岩科技第五层第二房间.subAnsOnF5R2_add(结果)
+    player.say(結果)
+    基岩科技第五層第二房間.subAnsOnF5R2_add(結果)
 ```
 ```template
 
-    let 加数1 = 648
-    let 加数2 = 200
-    let 结果 = 0
+    let 加數1 = 648
+    let 加數2 = 200
+    let 結果 = 0
     
-    结果 = 加数1 + 加数2
+    結果 = 加數1 + 加數2
 
-    player.say(结果)
-    基岩科技第五层第二房间.subAnsOnF5R2_add(结果)
+    player.say(結果)
+    基岩科技第五層第二房間.subAnsOnF5R2_add(結果)
 ```
 
 ```package
